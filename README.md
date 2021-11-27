@@ -7,8 +7,14 @@ Oleh :
 
 ---
 
+Tabel 
+![image](https://user-images.githubusercontent.com/61973814/143667180-0df8b2f2-bf62-4fc3-9429-b4360974484e.png)
+
+
 ![image](https://user-images.githubusercontent.com/61973814/143666288-c79b6191-5e10-4ac6-9a50-a57e94775e2a.png)
 ![image](https://user-images.githubusercontent.com/61973814/143666299-abfb7b9f-933a-468b-8577-dd7eec06b1c4.png)
+
+
 
 
 ROUTING
