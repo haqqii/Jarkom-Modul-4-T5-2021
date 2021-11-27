@@ -25,6 +25,7 @@ Setelah membuat tree, maka menentukan semua ip yang ada di dalam tree tersebut d
 ![Screenshot 2021-11-27 105545](https://user-images.githubusercontent.com/73151522/143667288-bef2ef7c-404f-4128-809a-173c98469791.jpg)
 ![Screenshot 2021-11-27 105602](https://user-images.githubusercontent.com/73151522/143667291-34c2a326-cd83-4578-99b6-1d211b65540b.jpg)
 
+## Config IP
 Setelah ditentukan Ip nya maka kita masukkan ke dalam PC, dan Router nya. Seperti contoh pada berikut :
 
 ![image](https://user-images.githubusercontent.com/61973814/143666288-c79b6191-5e10-4ac6-9a50-a57e94775e2a.png)
@@ -37,8 +38,7 @@ Pada gambar diatas termasuk pada circle A3 yang berarti ip pada router nya adala
 
 setelah dimasukkan ip dan subnet pada router dan clientnya maka kita coba testing, jika sudah succesfull maka berhasil
 
-
-## ROUTING
+## Routing
 Setelah dilakukan routing jarak dekat, maka dilakukan routing pada antar client yang jaraknya agak jauh, maka dilakukan penyetingan pada setiap routernya.
 
 PUCCI
