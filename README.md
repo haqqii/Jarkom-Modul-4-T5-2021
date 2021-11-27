@@ -6,7 +6,7 @@ Oleh :
 3. Mohammad Ibadul Haqqi (05311940000037)
 
 ---
-VLSM
+# VLSM
 
 ![Screenshot 2021-11-27 105423](https://user-images.githubusercontent.com/73151522/143667259-8ef05a11-1683-4fe8-bb16-76f44b95449a.jpg)
 
@@ -74,11 +74,11 @@ Seastone
 
 ![image](https://user-images.githubusercontent.com/61973814/143666431-1e78c064-2e79-4e36-83a0-a3f3b1d1ebaa.png)
 
-CIDR GNS 3
+# CIDR
 
-![image](https://user-images.githubusercontent.com/73151831/143680640-7b645ae6-bd50-40b2-8df6-e26d73547c2f.png)
+![image](https://user-images.githubusercontent.com/73151831/143681096-5e556fab-4443-422d-bbfb-7fbd062a1783.png)
 
-Config IP
+## Config IP
 
 Foosha
 ```
@@ -332,4 +332,40 @@ iface eth0 inet static
 	address 10.44.128.2
 	netmask 255.255.252.0
 	gateway 10.44.128.1
+```
+
+## Routing
+
+Foosha
+```
+route add -net 10.44.32.0 netmask 255.255.252.0 gw 10.44.64.2
+route add -net 10.44.8.0 netmask 255.255.255.128 gw 10.44.64.2
+route add -net 10.44.0.0 netmask 255.255.248.0 gw 10.44.64.2
+route add -net 10.44.148.0 netmask 255.255.252.0 gw 10.44.160.2
+route add -net 10.44.146.0 netmask 255.255.255.240 gw 10.44.160.2
+route add -net 10.44.136.0 netmask 255.255.255.252 gw 10.44.160.2
+route add -net 10.44.132.0 netmask 255.255.255.0 gw 10.44.160.2
+route add -net 10.44.128.0 netmask 255.255.252.0 gw 10.44.160.2
+route add -net 10.44.144.0 netmask 255.255.254.0 gw 10.44.160.2
+route add -net 10.44.16.0 netmask 255.255.255.252 gw 10.44.64.2
+route add -net 10.44.160.0 netmask 255.255.255.252 gw 10.44.160.2
+```
+
+Water7
+```
+route add -net 10.44.8.0 netmask 255.255.255.128 gw 10.44.16.2
+route add -net 10.44.0.0 netmask 255.255.248.0 gw 10.44.16.2
+```
+
+Guanhao
+```
+route add -net 10.44.146.0 netmask 255.255.255.240 gw 10.44.144.3
+route add -net 10.44.132.0 netmask 255.255.255.252 gw 10.44.136.6
+route add -net 10.44.136.0 netmask 255.255.255.0 gw 10.44.136.6
+route add -net 10.44.128.0 netmask 255.255.252.0 gw 10.44.136.6
+```
+
+Oiimo
+```
+route add -net 10.44.128.0 netmask 255.255.252.0 gw 10.44.132.3
 ```
