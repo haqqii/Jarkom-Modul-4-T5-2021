@@ -76,6 +76,16 @@ Seastone
 
 # CIDR
 
+## Subnetting
+
+![image](https://user-images.githubusercontent.com/73151831/143681473-31361ba1-b21e-4d46-a964-18dada9400ec.png)
+
+## Tree
+
+![image](https://user-images.githubusercontent.com/73151831/143681500-0ad17b55-9344-4977-9244-f4476559da74.png)
+
+## GNS3
+
 ![image](https://user-images.githubusercontent.com/73151831/143681096-5e556fab-4443-422d-bbfb-7fbd062a1783.png)
 
 ## Config IP
