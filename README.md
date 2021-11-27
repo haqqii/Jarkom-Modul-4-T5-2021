@@ -35,7 +35,8 @@ Pada gambar diatas termasuk pada circle A3 yang berarti ip pada router nya adala
 setelah dimasukkan ip dan subnet pada router dan clientnya maka kita coba testing, jika sudah succesfull maka berhasil
 
 
-ROUTING
+# ROUTING
+Setelah dilakukan routing jarak dekat, maka dilakukan routing pada antar client yang jaraknya agak jauh, maka dilakukan penyetingan pada setiap routernya.
 
 PUCCI
 
@@ -73,6 +74,8 @@ Alabasta
 Seastone
 
 ![image](https://user-images.githubusercontent.com/61973814/143666431-1e78c064-2e79-4e36-83a0-a3f3b1d1ebaa.png)
+
+
 
 # CIDR
 
