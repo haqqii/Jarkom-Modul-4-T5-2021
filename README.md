@@ -8,14 +8,17 @@ Oleh :
 ---
 # VLSM
 
+## Subnetting
 ![Screenshot 2021-11-27 105423](https://user-images.githubusercontent.com/73151522/143667259-8ef05a11-1683-4fe8-bb16-76f44b95449a.jpg)
 
+## Tree
 ![Frame 1 (1)](https://user-images.githubusercontent.com/73151522/143667216-522d7229-6c8c-431a-b248-64cf8eb02861.png)
 
 Tabel 
 
 ![image](https://user-images.githubusercontent.com/61973814/143667180-0df8b2f2-bf62-4fc3-9429-b4360974484e.png)
 
+## Perhitungan IP
 Setelah membuat tree, maka menentukan semua ip yang ada di dalam tree tersebut dengan cara melihat tabel pada diatas. Maka didapatkan jumlah semua IP dan ditentekan sebagai berikut :
 
 ![Screenshot 2021-11-27 105528](https://user-images.githubusercontent.com/73151522/143667285-94668a15-24db-47b5-9a30-cd1543005d6d.jpg)
@@ -35,7 +38,7 @@ Pada gambar diatas termasuk pada circle A3 yang berarti ip pada router nya adala
 setelah dimasukkan ip dan subnet pada router dan clientnya maka kita coba testing, jika sudah succesfull maka berhasil
 
 
-# ROUTING
+## ROUTING
 Setelah dilakukan routing jarak dekat, maka dilakukan routing pada antar client yang jaraknya agak jauh, maka dilakukan penyetingan pada setiap routernya.
 
 PUCCI
@@ -75,6 +78,8 @@ Seastone
 
 ![image](https://user-images.githubusercontent.com/61973814/143666431-1e78c064-2e79-4e36-83a0-a3f3b1d1ebaa.png)
 
+## Testing
+![image](https://user-images.githubusercontent.com/73151831/143685679-c7208d40-0ad6-4da8-99b5-04942c75906e.png)
 
 
 # CIDR
