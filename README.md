@@ -1,6 +1,11 @@
 # Jarkom-Modul-4-T5-2021
+Oleh :
 
+1. Shavica Ihya Q A L (05311940000013)
+2. Gerry Putra Fresnando (05311940000031)
+3. Mohammad Ibadul Haqqi (05311940000037)
 
+---
 
 ![image](https://user-images.githubusercontent.com/61973814/143666288-c79b6191-5e10-4ac6-9a50-a57e94775e2a.png)
 ![image](https://user-images.githubusercontent.com/61973814/143666299-abfb7b9f-933a-468b-8577-dd7eec06b1c4.png)
